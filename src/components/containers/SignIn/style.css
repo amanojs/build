@@ -1,0 +1,5 @@
+.base {
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(-135deg, #e4a972, #9941d8);
+}
